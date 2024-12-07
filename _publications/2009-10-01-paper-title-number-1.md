@@ -1,5 +1,5 @@
 ---
-title: "Language Adaptation of Large Language Models: A Empirical Study on LLaMA2"
+title: "Language Adaptation of Large Language Models: An Empirical Study on LLaMA2"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
