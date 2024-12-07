@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Shumin Wang, a Ph.D. student at School of Computer Science and Technology, University of Science and Technology of China. 
+This is Shumin Wang, a Ph.D. student at School of Computer Science and Technology, University of Science and Technology of China, advised by Prof. [Yanyong Zhang](http://staff.ustc.edu.cn/~yanyongz/).
 
 Research Interests
 ======
