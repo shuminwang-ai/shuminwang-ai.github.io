@@ -23,7 +23,7 @@ News!
 
 Publications
 ------
-**Language Adaptation of Large Language Models: An Empirical Study on LLaMA2**
-
+**Language Adaptation of Large Language Models: An Empirical Study on LLaMA2**\\
 **Shumin Wang**, Yuexiang Xie, Bolin Ding, Jinyang Gao, Yanyong Zhang*
+
 International Conference on Computational Linguistics(COLING), 2025
