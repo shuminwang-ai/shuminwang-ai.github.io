@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-This is Shumin Wang, a Ph.D. student at School of Computer Science and Technology, University of Science and Technology of China, advised by Prof. [Yanyong Zhang](http://staff.ustc.edu.cn/~yanyongz/). Previously, I received my Bachelor's Degree at School of Computer Science and Technology, USTC. I am working as an intern at Tongyi Lab, Alibaba Group now.
+This is Shumin Wang, a Ph.D. student at School of Computer Science and Technology, University of Science and Technology of China, under the supervision of Prof. [Yanyong Zhang](http://staff.ustc.edu.cn/~yanyongz/). Previously, I obtained my Bachelor's Degree from the same department at USTC. I am working as an intern at Tongyi Lab, Alibaba Group now.
 
 Research Interests
 ======
-My research focuses on expanding the application scope of large-scale neural networks. This includes extending large language models and exploring scaling laws in more modalities. Recently, my research focuses on two topics: Foundation models for 3D vision and Self-improvment for large language models.
+My research focuses on expanding the application scope of large-scale neural networks. This includes extending large language models and exploring scaling laws in more modalities. Recently, my research focuses on two topics: 
+- Foundation models for 3D vision
+- Self-improvment for large language models.
 
 
 
@@ -21,4 +23,6 @@ News!
 
 Publications
 ------
-
+**Language Adaptation of Large Language Models: An Empirical Study on LLaMA2**
+Shumin Wang, Yuexiang Xie, Bolin Ding, Jinyang Gao, Yanyong Zhang*
+International Conference on Computational Linguistics(COLING), 2025
